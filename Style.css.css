@@ -1,0 +1,108 @@
+
+.ganesh img{
+    height: 120px;
+    margin-left: 470px;
+  
+    
+}
+h3{
+    margin: 0%;
+padding: 0%;
+    
+    text-align: center;
+}
+body{
+margin: 0%;
+padding: 0%;
+height: 100%;
+width: 1002;
+}
+.ram{
+    height: 50px;
+    margin: 0%;
+padding: 0%;
+    width: 100%;
+background-color: black;
+}
+.ram h1{
+    text-align: center;
+    color: white;
+}
+.sonali{
+    margin: 0%;
+    padding: 0%;
+display: flex;
+
+
+}
+p{
+    color: black;
+    text-align: center;
+}
+.krushna h1{
+    text-align: center;
+
+}
+    
+
+.sonali img{
+    height: 320px;
+    width: 320px;
+    background-color: brown;
+    border: 4px solid black;
+    border-collapse: separate;
+    border-spacing: 70px;
+    justify-content: space-between;
+    
+}
+.sonalid{
+    margin: 0%;
+    padding: 0%;
+display: flex;
+}
+.sonalid img{
+    height: 320px;
+    width: 320px;
+    background-color: brown;
+    border: 4px solid black;
+    border-collapse: separate;
+    border-spacing: 70px;
+    justify-content: space-between;
+    justify-content: space-between;
+}
+.about{
+    text-align: center;
+
+}
+.about img{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+}
+.about pre{
+    font-size: 20px;
+
+    
+}
+.sonalipd{
+    margin: 0%;
+    padding: 0%;
+display: flex;
+    
+
+}
+.sonalipd img{
+    height: 320px;
+    width: 320px;
+    background-color: brown;
+    border: 4px solid black;
+    border-collapse: separate;
+    border-spacing: 70px;
+    justify-content: space-between;
+    
+
+}
+.sonalipd p{
+    text-align: left;
+    padding-left: 50px;
+}
